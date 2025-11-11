@@ -1,4 +1,4 @@
-Slave at 21glucose
+Slave at [21glucose](https://21glucose.carrd.co)
 
 <!---
 koblade009/koblade009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
